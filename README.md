@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 <h1 align="center">Hi 👋, I'm Sandeep Timalsina</h1>
 
 <p align="center">
@@ -9,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sandeep-timalsina-1080a8270">
+  <a href="https://www.linkedin.com/in/sandeep-timalsina-1080a8270">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/AyushG701">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="portfolio Badge"/>
+  <a href="https://sandeep.com">
+    <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="Portfolio Badge"/>
   </a>
 </p>
 
@@ -24,7 +22,8 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm Sandeep Timalsina, a passionate developer with a love for technology and innovation. I'am keen on learning new things and implementing them.
+  I'm Sandeep Timalsina, a passionate developer with a love for technology and innovation. I am keen on learning new things and implementing them. 
+  I primarily work with **Laravel**, **Node.js**, **React**, and **MySQL** and strive to stay updated with the latest trends in tech.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,60 +34,62 @@
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap" alt="Bootstrap"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=React" alt="React"/></a>
   <a href="#"><img src="https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git" alt="Git"/></a>
-   <a href="#"><img src="https://img.shields.io/badge/NodeJs--4479A1?style=for-the-badge&logo=Node" alt="NodeJs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NodeJs--4479A1?style=for-the-badge&logo=Node.js" alt="NodeJs"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL" alt="MySQL"/></a>
-   <a href="#"><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL--4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux" alt="Linux"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C" alt="C"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C" alt="C"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=C" alt="C++"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=CSS3" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5--E34F26?style=for-the-badge&logo=HTML5" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3--1572B6?style=for-the-badge&logo=CSS3" alt="CSS3"/></a>
 </p>
 
 <h2 align="center">Goals</h2>
 <p align="center">
-  My goals for near future is to be the best python developer in my nation.
+  My goal in the near future is to become one of the top Laravel and Node.js developers in my nation and contribute to the global development community. 
+  I'm also working towards mastering **Python**, **Django**, and **React** to deliver complete web applications.
 </p>
-
 
 <h2 align="center">Projects</h2>
 <p align="center">
   Here are some of the projects I've worked on:
 </p>
 <ul>
-  <li><b>Real-Time-Chat-App:</b> This is a realtime chat application where you can also send group messages. <a href="https://github.com/SandeepTimalsina/Django-RealTimeChat-App">Click me to open</a>.</li>
-  <li><b>Student-Management-System:</b> This is a School-Management-System to manage a online database of students in a school. <a href="https://github.com/SandeepTimalsina/School_management_system">Click me to open</a>.</li>
-  <li><b> CRM-app:</b>This is Django based CRM app to manage customer-realtionship-databases.<a href="https://github.com/SandeepTimalsina/Python-CRM-APP">Click me to open</a>.</li>
+  <li><b>Real-Time-Chat-App:</b> A real-time chat application with group messaging functionality. <a href="https://github.com/SandeepTimalsina/Django-RealTimeChat-App">Click me to open</a>.</li>
+  <li><b>Student-Management-System:</b> A School Management System to manage an online database of students. <a href="https://github.com/SandeepTimalsina/School_management_system">Click me to open</a>.</li>
+  <li><b>CRM App:</b> A Django-based CRM application to manage customer relationships. <a href="https://github.com/SandeepTimalsina/Python-CRM-APP">Click me to open</a>.</li>
+  <li><b>Laravel Blog:</b> A full-featured blog application built with Laravel. <a href="https://github.com/SandeepTimalsina/Laravel-Blog">Click me to open</a>.</li>
 </ul>
 
 <h2 align="center">Hobbies and Interests</h2>
 <p align="center">
   Outside of coding, I enjoy:
   <ul>
-    <li>Travelling natural landscapes</li>
-    <li>Studying about latest tech gadgets</li>
-    <li>Attending social gathering</li>
+    <li>Travelling to natural landscapes</li>
+    <li>Studying the latest tech gadgets</li>
+    <li>Attending social gatherings and learning from others</li>
   </ul>
 </p>
 
 <h2 align="center">Experience</h2>
 <p align="center">
-  <b>Company Name</b> - Job Title (Date)<br>
-  <i>Job Description and key responsibilities.</i>
+  <b>Freelance Developer</b> - Full-stack Developer (2020 - Present)<br>
+  <i>Building web applications using Laravel, React, Node.js, and MySQL. Providing solutions for clients in various industries.</i>
 </p>
 
 <h2 align="center">Education</h2>
 <p align="center">
-  <b>Tribhuvan University</b> - Degree (Date)<br>
-  <i>Bachelor's In Information Technology</i>
+  <b>Tribhuvan University</b> - Bachelor's in Information Technology (Graduating 2025)<br>
+  <i>Studying a mix of computer science, software development, and network administration.</i>
 </p>
 
 <h2 align="center">Achievements</h2>
 <p align="center">
   <ul>
-    <li>Achievement 1</li>
-    <li>Achievement 2</li>
-    <li>Achievement 3</li>
+    <li>Completed several projects in **Laravel**, **Django**, and **React** for clients and personal growth</li>
+    <li>Contributed to open-source projects on GitHub, improving coding skills and collaborating with other developers</li>
+    <li>Winner of **HackerRank** Python challenge in 2022</li>
   </ul>
 </p>
 
@@ -101,7 +102,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SandeepTimalsina&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SandeepTimalsina&&theme=dark&show_icons=true]" />
 </p>
 
 <p align="center">
@@ -113,5 +114,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepTimalsina&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepTimalsina&theme=high-contrast]" />
 </p>
