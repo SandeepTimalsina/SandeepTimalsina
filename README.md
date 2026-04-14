@@ -13,7 +13,7 @@
   <a href="https://www.hackerrank.com/AyushG701">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="https://sandeep.com">
+  <a href="https://sandeeptimalsina.com.np">
     <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="Portfolio Badge"/>
   </a>
 </p>
