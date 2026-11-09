@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sandeep Timalsina</h1>
+
+<h3 align="center">Backend Developer | Python & Machine Learning Enthusiast | Exploring Generative AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SandeepTimalsina&label=Profile%20views&color=0e75b6&style=flat" alt="SandeepTimalsina" />
@@ -8,111 +8,182 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeep-timalsina-1080a8270">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/AyushG701">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://sandeeptimalsina.com.np">
-    <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-B9B3A6?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/SandeepTimalsina">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-<h2 align="center">About Me</h2>
-<p align="center">
-  I'm Sandeep Timalsina, a passionate developer with a love for technology and innovation. I am keen on learning new things and implementing them. 
-  I primarily work with **Laravel**, **Node.js**, **React**, and **MySQL** and strive to stay updated with the latest trends in tech.
+## 👨‍💻 About Me
+
+I'm Sandeep Timalsina, a Bachelor of Information Technology graduate from Tribhuvan University with a background in backend and web application development.
+
+- 💻 Experienced in building backend applications and RESTful APIs using **Laravel, PHP, and MySQL**.
+- 🐍 Interested in Python programming, data processing, and machine learning.
+- 🤖 Exploring **Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
+- 🔎 Hands-on experience with embeddings, semantic search, and vector databases through personal AI projects.
+- 🧠 Interested in solving practical problems through software engineering and intelligent systems.
+- 🌱 Continuously learning new technologies and improving my development skills.
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap" alt="Bootstrap"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=React" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NodeJs--4479A1?style=for-the-badge&logo=Node.js" alt="NodeJs"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL--4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux" alt="Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C" alt="C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=C" alt="C++"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5--E34F26?style=for-the-badge&logo=HTML5" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3--1572B6?style=for-the-badge&logo=CSS3" alt="CSS3"/></a>
+### Backend and Web Development
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-<h2 align="center">Goals</h2>
-<p align="center">
-  My goal in the near future is to become one of the top Laravel and Node.js developers in my nation and contribute to the global development community. 
-  I'm also working towards mastering **Python**, **Django**, and **React** to deliver complete web applications.
+### AI, Machine Learning and Data
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
-<h2 align="center">Projects</h2>
-<p align="center">
-  Here are some of the projects I've worked on:
-</p>
-<ul>
-  <li><b>Real-Time-Chat-App:</b> A real-time chat application with group messaging functionality. <a href="https://github.com/SandeepTimalsina/Django-RealTimeChat-App">Click me to open</a>.</li>
-  <li><b>Student-Management-System:</b> A School Management System to manage an online database of students. <a href="https://github.com/SandeepTimalsina/School_management_system">Click me to open</a>.</li>
-  <li><b>CRM App:</b> A Django-based CRM application to manage customer relationships. <a href="https://github.com/SandeepTimalsina/Python-CRM-APP">Click me to open</a>.</li>
-  <li><b>Laravel Blog:</b> A full-featured blog application built with Laravel. <a href="https://github.com/SandeepTimalsina/Laravel-Blog">Click me to open</a>.</li>
-</ul>
-
-<h2 align="center">Hobbies and Interests</h2>
-<p align="center">
-  Outside of coding, I enjoy:
-  <ul>
-    <li>Travelling to natural landscapes</li>
-    <li>Studying the latest tech gadgets</li>
-    <li>Attending social gatherings and learning from others</li>
-  </ul>
+### Databases and Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<h2 align="center">Experience</h2>
+## 🚀 Featured Projects
+
+### 🤖 Food Service AI – Retrieval-Augmented Generation (RAG)
+
+A document-based AI assistant that retrieves relevant information from PDF documents and generates context-aware responses using a large language model.
+
+**Key Features:**
+- PDF text extraction using PyMuPDF.
+- Document chunking with LangChain.
+- Text embeddings using Sentence Transformers.
+- Persistent vector storage with ChromaDB.
+- Semantic retrieval and contextual response generation.
+- Google Gemini API integration.
+
+**Technologies:** Python, Gemini API, LangChain, Sentence Transformers, ChromaDB, PyMuPDF.
+
+🔗 [View Repository](https://github.com/SandeepTimalsina/food-service-ai)
+
+### 🧠 Cyberbullying Detection in Hinglish Text
+
+A collaborative academic project focused on detecting toxic and non-toxic text. My contribution focused on developing the machine-learning component.
+
+**Key Features:**
+- Text cleaning and preprocessing using regular expressions.
+- Tokenization, stop-word removal, and lemmatization.
+- Feature extraction using CountVectorizer and TF-IDF.
+- Model training and comparison using Linear SVM, Random Forest, Logistic Regression, and KNN.
+- Model evaluation using accuracy, precision, recall, and F1-score.
+- Hyperparameter tuning using GridSearchCV.
+
+**Technologies:** Python, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib, Seaborn.
+
+🔗 [View Repository](https://github.com/SandeepTimalsina/finalyearclzproject)
+
+### 💬 Real-Time Chat Application
+
+A Django-based real-time chat application featuring group messaging functionality.
+
+🔗 [View Repository](https://github.com/SandeepTimalsina/Django-RealTimeChat-App)
+
+### 🎓 Student Management System
+
+A web-based application for managing student information and academic records.
+
+🔗 [View Repository](https://github.com/SandeepTimalsina/School_management_system)
+
+### 📊 Python CRM Application
+
+A Django-based customer relationship management application.
+
+🔗 [View Repository](https://github.com/SandeepTimalsina/Python-CRM-APP)
+
+### 📝 Laravel Blog
+
+A blog application developed using the Laravel framework.
+
+🔗 [View Repository](https://github.com/SandeepTimalsina/Laravel-Blog)
+
+## 💼 Professional Experience
+
+**Backend Developer – Webbing Plex Pvt. Ltd.**
+
+*May 2025 – August 2026*
+
+- Developed backend applications using Laravel and PHP.
+- Designed and implemented RESTful APIs.
+- Worked with MySQL databases and query optimization.
+- Built reusable backend modules and maintained server-side application functionality.
+
+## 🎓 Education
+
+**Bachelor of Information Technology (BIT)**  
+Tribhuvan University – Bhaktapur Multiple Campus, Nepal  
+2020–2024 | Official degree completion finalized September 2025.
+
+## 🎯 Current Learning Goals
+
+- Deepening my understanding of Python and machine learning.
+- Exploring Large Language Models and Generative AI applications.
+- Learning advanced RAG architectures and retrieval techniques.
+- Exploring multimodal AI and intelligent information-processing systems.
+- Improving backend architecture, API development, and software engineering practices.
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <b>Freelance Developer</b> - Full-stack Developer (2020 - Present)<br>
-  <i>Building web applications using Laravel, React, Node.js, and MySQL. Providing solutions for clients in various industries.</i>
+  <a href="https://www.linkedin.com/in/sandeep-timalsina-1080a8270">LinkedIn</a> •
+  <a href="https://sandeeptimalsina.com.np">Portfolio</a> •
+  <a href="https://github.com/SandeepTimalsina">GitHub</a>
 </p>
 
-<h2 align="center">Education</h2>
 <p align="center">
-  <b>Tribhuvan University</b> - Bachelor's in Information Technology (Graduating 2025)<br>
-  <i>Studying a mix of computer science, software development, and network administration.</i>
+  📧 <b>sandeeptimalsina100@gmail.com</b>
 </p>
 
-<h2 align="center">Achievements</h2>
-<p align="center">
-  <ul>
-    <li>Completed several projects in **Laravel**, **Django**, and **React** for clients and personal growth</li>
-    <li>Contributed to open-source projects on GitHub, improving coding skills and collaborating with other developers</li>
-    <li>Winner of **HackerRank** Python challenge in 2022</li>
-  </ul>
-</p>
-
-<h2 align="center">GitHub Stats</h2>
-<table cellpadding="0" align="center">
-  <tr style="padding: 0">
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=SandeepTimalsina&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepTimalsina&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SandeepTimalsina&&theme=dark&show_icons=true]" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SandeepTimalsina&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepTimalsina&layout=compact&theme=radical&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepTimalsina&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<h2 align="center">Recent Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepTimalsina&theme=high-contrast" alt="GitHub Activity Graph"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepTimalsina&theme=high-contrast]" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" alt="Footer"/>
 </p>
