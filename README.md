@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Timalsina</h1>
 
-<h3 align="center">Backend Developer | Python & Machine Learning Enthusiast | Exploring Generative AI</h3>
+<h3 align="center">Backend Developer | Python & Machine Learning | Java </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SandeepTimalsina&label=Profile%20views&color=0e75b6&style=flat" alt="SandeepTimalsina" />
@@ -25,8 +25,7 @@
 I'm Sandeep Timalsina, a Bachelor of Information Technology graduate from Tribhuvan University with a background in backend and web application development.
 
 - 💻 Experienced in building backend applications and RESTful APIs using **Laravel, PHP, and MySQL**.
-- 🐍 Interested in Python programming, data processing, and machine learning.
-- 🤖 Exploring **Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
+- 🐍 Python programming, data processing, and machine learning.
 - 🔎 Hands-on experience with embeddings, semantic search, and vector databases through personal AI projects.
 - 🧠 Interested in solving practical problems through software engineering and intelligent systems.
 - 🌱 Continuously learning new technologies and improving my development skills.
@@ -108,29 +107,12 @@ A collaborative academic project focused on detecting toxic and non-toxic text. 
 
 🔗 [View Repository](https://github.com/SandeepTimalsina/finalyearclzproject)
 
-### 💬 Real-Time Chat Application
-
-A Django-based real-time chat application featuring group messaging functionality.
-
-🔗 [View Repository](https://github.com/SandeepTimalsina/Django-RealTimeChat-App)
-
-### 🎓 Student Management System
-
-A web-based application for managing student information and academic records.
-
-🔗 [View Repository](https://github.com/SandeepTimalsina/School_management_system)
-
 ### 📊 Python CRM Application
 
 A Django-based customer relationship management application.
 
 🔗 [View Repository](https://github.com/SandeepTimalsina/Python-CRM-APP)
 
-### 📝 Laravel Blog
-
-A blog application developed using the Laravel framework.
-
-🔗 [View Repository](https://github.com/SandeepTimalsina/Laravel-Blog)
 
 ## 💼 Professional Experience
 
